@@ -1,5 +1,5 @@
 
-import 'package:apptest/views/home_page.dart';
+import '../views/home_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'Providers/notification_provider.dart';
